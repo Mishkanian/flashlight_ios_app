@@ -1,8 +1,14 @@
 # Flashlight iOS app
 
-Simple flashlight app written in Swift for iOS devices.
+## Language
+- Swift
 
-Screen changes from white to black whenever user taps on the screen.
+## What is this app?
+- This is a simple flashlight app for iOS devices.
+
+## How does this app work?
+- The screen changes from white to black whenever the user taps on the screen. This app does not turn on the light on back of devices.
+
 
 **Author: Michael Mishkanian**  
 For all questions and inquiries, please contact me on [LinkedIn](https://www.linkedin.com/in/michaelmishkanian/).
